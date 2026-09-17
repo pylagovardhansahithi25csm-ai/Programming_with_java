@@ -1,7 +1,6 @@
 package Assignment;
 
-
-    class StringStartEnd {
+public class StringStartEnd {
     public static void main(String[] args) {
         String str = "Hello Java";
 
