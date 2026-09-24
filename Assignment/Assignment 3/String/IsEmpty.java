@@ -1,5 +1,5 @@
 package Assignments;
-    class IsEmpty {
+   public class IsEmpty {
     public static void main(String[] args) {
         String str = "";
 
