@@ -1,6 +1,6 @@
 package Assignments;
 
-    class StringEquals {
+   public class StringEquals {
     public static void main(String[] args) {
         String str1 = "Java";
         String str2 = "Java";
