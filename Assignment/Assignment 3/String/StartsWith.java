@@ -5,6 +5,6 @@ public class StartsWith{
         String str = "Hello Java";
 
         System.out.println("Starts with Hello: " + str.startsWith("Hello"));
-        System.out.println("Ends with Java: " + str.endsWith("Java"));
+
     }
 }
